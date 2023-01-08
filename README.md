@@ -1,0 +1,1 @@
+# java-event-manager-indexer
